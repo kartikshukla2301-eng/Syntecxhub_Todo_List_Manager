@@ -1,5 +1,9 @@
 # Syntecxhub To-Do List Manager
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
+![JSON](https://img.shields.io/badge/Storage-JSON-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 A simple, desktop-based To-Do List Manager written in Python using the Tkinter graphical library. This project was developed as part of an internship task to demonstrate fundamental programming concepts, input validation, file I/O operations, desktop UI layouts, and clean logic separation.
 
 ## Project Overview
@@ -29,7 +33,7 @@ The Syntecxhub To-Do List Manager is a desktop GUI application designed to help 
 1. Make sure Python 3.x is installed on your computer.
 2. Clone or download the repository files:
    ```bash
-   git clone https://github.com/yourusername/Syntecxhub_Todo_List_Manager.git
+   git clone https://github.com/kartikshukla2301-eng/Syntecxhub_Todo_List_Manager.git
    cd Syntecxhub_Todo_List_Manager
    ```
 3. Since the app uses standard Tkinter libraries, no external dependencies or packages need to be installed.
@@ -49,6 +53,13 @@ This will launch a desktop GUI window. All options and inputs are managed throug
 - **Left Side Panel**: Includes fields to type new tasks, select priorities, and search by keywords.
 - **Right Side Panel**: Houses the main tasks table and action buttons (`Mark Complete`, `Delete Task`).
 - **Bottom Panel**: Contains the live statistics panel.
+
+## Author
+
+**Kartik Shukla**
+
+- GitHub: https://github.com/kartikshukla2301-eng
+- LinkedIn: https://www.linkedin.com/in/kartik-shukla-cse
 
 ## Future Improvements
 
