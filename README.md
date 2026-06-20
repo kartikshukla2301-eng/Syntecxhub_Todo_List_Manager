@@ -1,6 +1,7 @@
 # Syntecxhub To-Do List Manager
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)![JSON](https://img.shields.io/badge/Storage-JSON-orange?style=for-the-badge)![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 A simple, desktop-based To-Do List Manager written in Python using the Tkinter graphical library. This project was developed as part of an internship task to demonstrate fundamental programming concepts, input validation, file I/O operations, desktop UI layouts, and clean logic separation.
 
 ## Project Overview
